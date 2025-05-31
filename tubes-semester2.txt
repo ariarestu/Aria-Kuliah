@@ -1,2 +1,3 @@
 Tugas Besar Semester 2 
 - Alpro2: Membuat program yang dijalankan di terminal
+- P Basis Data: Membuat database
